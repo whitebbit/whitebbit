@@ -25,10 +25,9 @@ I have been developing on python for more than six months. I am well versed in t
 
 ### My opensource projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+*   [Ya.Pass](https://github.com/whitebbit/Ya.Pass) - an application for storing login and password. Two-way RSA protection is used for encryption. The data can be easily copied, modified or deleted.
+*   [GamesNewsBot](https://github.com/whitebbit/GamesNewsBot) - the bot analyzes websites, selects interesting headlines, searches for the best text and automatically posts the received news to the telegram channel.
+*   [NewsAI](https://github.com/whitebbit/NewsAI) - an AI that is able to tell how interesting a news headline is based on a loaded database
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/whitebbit/github-profile-views-counter">
