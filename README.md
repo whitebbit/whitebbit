@@ -28,6 +28,7 @@ I have been developing on python for more than six months. I am well versed in t
 *   [Ya.Pass](https://github.com/whitebbit/Ya.Pass) - an application for storing login and password. Two-way RSA protection is used for encryption. The data can be easily copied, modified or deleted.
 *   [GamesNewsBot](https://github.com/whitebbit/GamesNewsBot) - the bot analyzes websites, selects interesting headlines, searches for the best text and automatically posts the received news to the telegram channel.
 *   [NewsAI](https://github.com/whitebbit/NewsAI) - an AI that is able to tell how interesting a news headline is based on a loaded database
+*   [InfiniteStorage](https://github.com/whitebbit/InfiniteStorage) - the file is transcoded into bytecode, on the basis of which a video is created that can be uploaded to YouTube (the project is not completed, decoding is not implemented)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/whitebbit/github-profile-views-counter">
