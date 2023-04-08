@@ -18,7 +18,7 @@ I have been developing on python for more than six months. I am well versed in t
 </p>
 
 ## 🛠 Technical Stack
-*   Python/C# languages
+*   Python
 *   SQLite, PostgreSQL, SQLAlchemy
 *   NumPy, Pandas 
 *   Django, HTML, CSS
