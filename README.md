@@ -28,6 +28,7 @@ I have been developing on python for more than six months. I am well versed in t
 *   [GamesNewsBot](https://github.com/whitebbit/GamesNewsBot) - the bot analyzes websites, selects interesting headlines, searches for the best text and automatically posts the received news to the telegram channel.
 *   [NewsAI](https://github.com/whitebbit/NewsAI) - an AI that is able to tell how interesting a news headline is based on a loaded database
 *   [InfiniteStorage](https://github.com/whitebbit/InfiniteStorage) - the file is transcoded into bytecode, on the basis of which a video is created that can be uploaded to YouTube (the project is not completed, decoding is not implemented)
+*   [TwitterSentimentAnalysis](https://github.com/whitebbit/TwitterSentimentAnalysis) - the topic is analyzed using Twitter for positive or negative polarity and added to the database. There are a couple of analytic graphs
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/whitebbit/github-profile-views-counter">
