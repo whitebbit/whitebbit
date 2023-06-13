@@ -24,6 +24,7 @@ I have been developing on python for more than six months. I am well versed in t
 *   Django, HTML, CSS
 
 ### My opensource projects
+*   [Backend Seaker Shop](https://github.com/whitebbit/backend-sneakers-shop) - backend architecture of a sneaker store using tools such as: ELK stack, Redis, Celery, PostrgeSQL.
 *   [Ya.Pass](https://github.com/whitebbit/Ya.Pass) - an application for storing login and password. Two-way RSA protection is used for encryption. The data can be easily copied, modified or deleted.
 *   [GamesNewsBot](https://github.com/whitebbit/GamesNewsBot) - the bot analyzes websites, selects interesting headlines, searches for the best text and automatically posts the received news to the telegram channel.
 *   [NewsAI](https://github.com/whitebbit/NewsAI) - an AI that is able to tell how interesting a news headline is based on a loaded database
