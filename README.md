@@ -19,9 +19,10 @@ I have been developing on python for more than six months. I am well versed in t
 
 ## 🛠 Technical Stack
 *   Python
-*   SQLite, PostgreSQL, SQLAlchemy
-*   NumPy, Pandas 
-*   Django, HTML, CSS
+*   Linux
+*   Git
+*   PostgreSQL, SQLAlchemy
+*   Django, Django Rest Framework, FastAPI
 
 ### My opensource projects
 *   [Backend Seaker Shop](https://github.com/whitebbit/backend-sneakers-shop) - backend architecture of a sneaker store using tools such as: ELK stack, Redis, Celery, PostrgeSQL.
