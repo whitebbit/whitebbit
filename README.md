@@ -27,10 +27,9 @@ A motivated and purposeful beginner Python Backend developer with a deep interes
 
 ### My opensource projects
 *   [Backend Seaker Shop](https://github.com/whitebbit/backend-sneakers-shop) - backend architecture of a sneaker store using tools such as: ELK stack, Redis, Celery, PostrgeSQL.
-*   [GamesNewsBot](https://github.com/whitebbit/GamesNewsBot) - the bot analyzes websites, selects interesting headlines, searches for the best text and automatically posts the received news to the telegram channel.
-*   [NewsAI](https://github.com/whitebbit/NewsAI) - an AI that is able to tell how interesting a news headline is based on a loaded database
-*   [TwitterSentimentAnalysis](https://github.com/whitebbit/TwitterSentimentAnalysis) - the topic is analyzed using Twitter for positive or negative polarity and added to the database. There are a couple of analytic graphs
-*   [PredictingStockPrices](https://github.com/whitebbit/PredictingStockPrices) - predicting the company's stock price
+*   [django-blog](https://github.com/whitebbit/django-blog) - simple blog creared with Django and DjangoREST
+*   [django-todo](https://github.com/whitebbit/django-todo) - to-do web app created with Django
+*   [REST-FastAPI](https://gitlab.com/whitebbit/rest-fastapi) - simple REST on FastAPI
   
 I am looking for an opportunity to join the development team to gain work experience and expand my knowledge in the field of Python Backend development. My goal is to become a valuable member of the team and contribute to the development of high-quality software products.
 
