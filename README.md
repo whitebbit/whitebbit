@@ -14,7 +14,7 @@ Talented Unity developer with 2 years of experience in creating interactive and 
 *   Proficiency in graphic design tools (Photoshop, Illustrator) is a plus.
 *   Familiarity with version control systems (Git).
 
-## Work Experience
+## 💼 Work Experience
 [Butcher's Games](https://play.google.com/store/apps/developer?id=Butcher%27s+Games) - may 2021/september 2022 
 ### Unity Developer
 *    Developed and optimized game mechanics, character control systems, and artificial intelligence.
@@ -34,7 +34,7 @@ Talented Unity developer with 2 years of experience in creating interactive and 
 *   [People Rescue](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.peoplerescue&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
 *   [Draw and Run](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.drawandrun&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
 
-## Languages:
+## 🔠 Languages:
 *    Russian (native)
 *    English (technical proficiency)
 
