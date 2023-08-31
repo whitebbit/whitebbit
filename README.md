@@ -7,8 +7,6 @@ Talented Unity developer with 2 years of experience in creating interactive and 
 *   [Email](whitebbit.entertainment@gmail.com)
 *   [LinkedIn](https://www.linkedin.com/in/whitebbit/)
 
-Talented Unity developer with 2 years of experience in creating interactive and captivating gaming and visual projects. My goal is to craft innovative and high-quality products that inspire and delight users.
-
 ## 🛠 Technical Stack
 *   Advanced knowledge of Unity Engine and C#.
 *   Experience with 2D and 3D graphics, animations, and physics.
