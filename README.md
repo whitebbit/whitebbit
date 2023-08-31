@@ -21,9 +21,8 @@ Talented Unity developer with 2 years of experience in creating interactive and 
 *    Created visual effects and animations to enhance gameplay.
 *    Integrated graphical assets and sound effects into the game environment.
 *    Optimized game performance and resolved bugs.
-*    Collaborated with artists and designers to achieve project goals.
-  
-## Projects
+*    Collaborated with artists and designers to achieve project goals. 
+### Projects
 *   [Horse Cleaning 3D](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.horsecleaning3d&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
 *   [Upgrade Run 3D](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.upgraderun3d&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
 *   [Assembly Run 3D](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.assemblyrun3d&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
@@ -34,8 +33,6 @@ Talented Unity developer with 2 years of experience in creating interactive and 
 *   [Dress Run](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.masqueraderun&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
 *   [People Rescue](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.peoplerescue&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
 *   [Draw and Run](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.drawandrun&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
-
-
 
 ## Languages:
 *    Russian (native)
