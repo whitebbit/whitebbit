@@ -1,37 +1,45 @@
 # Hi, I'm Yan 👋
-A motivated and purposeful beginner Python Backend developer with a deep interest in creating effective and intuitive software solutions. I have a solid knowledge of Python and the fundamental principles of development, which I strive to put into practice. The desire to learn and develop allows you to quickly learn new concepts and technologies.
+Contact Information:
+[Telegram](https://t.me/ynchkkkk)
+[Email](whitebbit.entertainment@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/whitebbit/)
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=whitebbit&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=whitebbit&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitebbit&layout=compact"/></a>
-</p>
-
-<p align='center'>
-   <a href="https://t.me/ynchkkkk">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:whitebbit.entertainment@gmail.com'>whitebbit.entertainment@gmail.com</a>
-</p>
+Talented Unity developer with 2 years of experience in creating interactive and captivating gaming and visual projects. My goal is to craft innovative and high-quality products that inspire and delight users.
 
 ## 🛠 Technical Stack
-*   Programming languages: Python, C#
-*   Frameworks: FastAPI, Django (basic knowledge)
-*   Relational databases: MySQL, SQLite, PostgreSQL (basic knowledge)
-*   Versioning: Git
-*   Operating Systems: Linux, Windows
-*   Basics of front-end development: HTML, CSS (basic knowledge)
+*   Advanced knowledge of Unity Engine and C#.
+*   Experience with 2D and 3D graphics, animations, and physics.
+*   Understanding of game mechanics development and UI/UX design principles.
+*   Experience in performance optimization and bug fixing.
+*   Proficiency in graphic design tools (Photoshop, Illustrator) is a plus.
+*   Familiarity with version control systems (Git).
 
-### My opensource projects
-*   [Backend Seaker Shop](https://github.com/whitebbit/backend-sneakers-shop) - backend architecture of a sneaker store using tools such as: ELK stack, Redis, Celery, PostrgeSQL.
-*   [django-blog](https://github.com/whitebbit/django-blog) - simple blog creared with Django and DjangoREST
-*   [django-todo](https://github.com/whitebbit/django-todo) - to-do web app created with Django
-*   [REST-FastAPI](https://gitlab.com/whitebbit/rest-fastapi) - simple REST on FastAPI
+## Work Experience
+[Butcher's Games](https://play.google.com/store/apps/developer?id=Butcher%27s+Games) - may 2021/september 2022 
+### Unity Developer
+*    Developed and optimized game mechanics, character control systems, and artificial intelligence.
+*    Created visual effects and animations to enhance gameplay.
+*    Integrated graphical assets and sound effects into the game environment.
+*    Optimized game performance and resolved bugs.
+*    Collaborated with artists and designers to achieve project goals.
   
-I am looking for an opportunity to join the development team to gain work experience and expand my knowledge in the field of Python Backend development. My goal is to become a valuable member of the team and contribute to the development of high-quality software products.
+## Projects
+*   [Horse Cleaning 3D](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.horsecleaning3d&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [Upgrade Run 3D](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.upgraderun3d&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [Assembly Run 3D](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.assemblyrun3d&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [Earthquake Repair](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.earthquakerepair&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [Telekinesis Race - Magic Hands](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.forcerace&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [Human Snake Survival 3D](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.humansnakesurvival&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [Bullet Guy](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.bulletguy&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [Dress Run](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.masqueraderun&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [People Rescue](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.peoplerescue&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+*   [Draw and Run](https://play.google.com/store/apps/details?src=AppAgg.com&id=com.butchersgames.drawandrun&referrer=utm_source%3DAppAgg.com%26utm_medium%3Dreferral%26utm_campaign%3DAppAgg)
+
+
+
+## Languages:
+*    Russian (native)
+*    English (technical proficiency)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/whitebbit/github-profile-views-counter">
