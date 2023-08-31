@@ -1,8 +1,8 @@
 # Hi, I'm Yan 👋
-Contact Information:
-[Telegram](https://t.me/ynchkkkk)
-[Email](whitebbit.entertainment@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/whitebbit/)
+## 📞 Contact Information:
+*   [Telegram](https://t.me/ynchkkkk)
+*   [Email](whitebbit.entertainment@gmail.com)
+*   [LinkedIn](https://www.linkedin.com/in/whitebbit/)
 
 Talented Unity developer with 2 years of experience in creating interactive and captivating gaming and visual projects. My goal is to craft innovative and high-quality products that inspire and delight users.
 
